@@ -1,3 +1,3 @@
 #! /usr/bin/ruby
 
-exec 'ruby test.rb'
+exec 'ruby to_file.rb'
