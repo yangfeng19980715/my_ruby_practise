@@ -1,3 +1,3 @@
 #! /usr/bin/ruby
 
-exec 'ruby ActsAsCsv.rb'
+exec 'clear && ruby homework.rb'
