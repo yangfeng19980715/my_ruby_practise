@@ -1,3 +1,3 @@
 #! /usr/bin/ruby
 
-exec 'ruby to_file.rb'
+exec 'ruby homework.rb'

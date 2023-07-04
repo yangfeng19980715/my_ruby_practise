@@ -1,0 +1,1 @@
+IO.foreach("test.rb") { |x| print "Got: ", x }
